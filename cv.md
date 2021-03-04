@@ -21,7 +21,7 @@ I`m well familiar with html5, js, css3, started learning react.
 
 ---
 
-    ## SKILLS
+## SKILLS
 
 - JavaScript
 - HTML, CSS
