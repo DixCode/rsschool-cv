@@ -122,6 +122,9 @@ h1, h2, h3, h4, h5, h6 {
 }
 .main {}
 .info {}
+.info__title{
+	display: none;
+}
 .info__contacts {
 	text-align: center;
 }
@@ -137,8 +140,12 @@ h1, h2, h3, h4, h5, h6 {
 	display: inline-block;
 	margin: 0 auto;
 }
+.contacts__text ul{
+	display: inline-block;
+}
 .contacts__text li{
 	margin: 0 0 10px 0;
+	text-align: left;
 
 }
 .info__about {}
@@ -151,6 +158,10 @@ h1, h2, h3, h4, h5, h6 {
 .skills__text {
 	display: inline-block;
 	margin: 0 auto;
+}
+.skills__text li{
+	margin: 0 0 10px 0;
+	text-align: left;
 }
 .info__projects {}
 .info__title {}
@@ -185,9 +196,21 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .footer {
-
+border-bottom: none;
 }
-.footer__text {
+.footer__row{
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+}
+.footer__year {
 	font-size: 20px;
-	text-align: center;
+	font-weight: 700;
+}
+.footer__rs {}
+.footer__rs img{
+	width: 100px;
+}
+.footer__git img{
+	width: 150px;
 }
