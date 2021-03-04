@@ -34,7 +34,7 @@ I`m well familiar with html5, js, css3, started learning react.
 
 https://github.com/DixCode/myProject
 
-    ---
+---
 
 
 ## WORK EXPERIENCE
