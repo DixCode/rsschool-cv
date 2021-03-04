@@ -16,7 +16,7 @@ Mobile number: +375257068759<br/>
 
 I`m highly motivated,flexible, responsible person.
 I study programming on my own,do everything for employment, this area is very interesting to me. 
-I`m well familiar with html5, js, css3, started learning react.
+
 
 
 ---
